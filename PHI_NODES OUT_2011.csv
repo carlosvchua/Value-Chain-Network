@@ -1,0 +1,35 @@
+﻿id,sector,type,type.label,log.size
+0,"Agriculture, Hunting, Forestry and Fishing",1,primary,4.071308761
+1,Mining and Quarrying,1,primary,3.087877941
+2,"Food, Beverages and Tobacco",2,manufacturing,4.635885354
+3,Textiles and Textile Products,2,manufacturing,3.454620308
+4,"Leather, Leather and Footwear",2,manufacturing,2.42785695
+5,Wood and Products of Wood and Cork,2,manufacturing,2.954157067
+6,"Pulp, Paper, Paper , Printing and Publishing",2,manufacturing,3.241349739
+7,"Coke, Refined Petroleum and Nuclear Fuel",2,manufacturing,3.837584299
+8,Chemicals and Chemical Products,2,manufacturing,3.69610033
+9,Rubber and Plastics,2,manufacturing,3.179353238
+10,Other Non-Metallic Mineral,2,manufacturing,3.408194844
+11,Basic Metals and Fabricated Metal,2,manufacturing,3.7348655
+12,"Machinery, Nec",2,manufacturing,3.09912497
+13,Electrical and Optical Equipment,2,manufacturing,4.273808847
+14,Transport Equipment,2,manufacturing,3.380869947
+15,"Manufacturing, Nec; Recycling",2,manufacturing,3.470379785
+16,"Electricity, Gas and Water Supply",2,manufacturing,3.506793738
+17,Construction,3,service,3.880897563
+18,"Sale, Maintenance and Repair of Motor Vehicles and Motorcycles; Retail Sale of Fuel",3,service,2.883421192
+19,"Wholesale Trade and Commission Trade, Except of Motor Vehicles and Motorcycles",3,service,3.596324244
+20,"Retail Trade, Except of Motor Vehicles and Motorcycles; Repair of Household Goods",3,service,4.096648066
+21,Hotels and Restaurants,3,service,3.747542054
+22,Inland Transport,3,service,3.507715722
+23,Water Transport,3,service,2.65256998
+24,Air Transport,3,service,3.433165807
+25,Other Supporting and Auxiliary Transport Activities; Activities of Travel Agencies,3,service,3.01014131
+26,Post and Telecommunications,3,service,3.462317406
+27,Financial Intermediation,3,service,3.810270926
+28,Real Estate Activities,3,service,3.006746641
+29,Renting of M&Eq and Other Business Activities,3,service,4.061970464
+30,Public Admin and Defence; Compulsory Social Security,3,service,3.621830083
+31,Education,3,service,3.242494635
+32,Health and Social Work,3,service,3.439530386
+33,"Other Community, Social and Personal Services",3,service,3.549531109
