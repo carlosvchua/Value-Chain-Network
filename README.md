@@ -4,4 +4,4 @@ This is an ongoing personal project. The aim of this project to visualize global
 
 The data used is derived from the Asian Development Bank Multi-Regional Input-Output Database. This database contains 60 economies and 35 sectors.
 
-So far I have worked on the value chains for the Philippines in year 2011. I plan to add more countries and more years. In the future I plan to expand this as I refine my R coding skills. 
+So far I have worked on the value chains for the Philippines in year 2011. I plan to add more countries and more years. In the future I plan to expand this as I refine my R coding skills. Feedback and suggestions are most welcome!
