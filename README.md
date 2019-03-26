@@ -1,6 +1,6 @@
 # Value-Chain-Network
 
-This is an ongoing personal project. The aim of this project to visualize global value chains and to model the entire global trade ecosystem. I am mainly using the networkD3 package on R.
+This is an ongoing personal project. The aim of this project to visualize global value chains and to model the entire global trade ecosystem. I am mainly using the networkD3 package on R. The package is from Christopher Gandrud https://github.com/christophergandrud/networkD3
 
 The data used is derived from the Asian Development Bank Multi-Regional Input-Output Database. This database contains 60 economies and 35 sectors.
 
